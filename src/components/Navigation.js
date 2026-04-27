@@ -25,7 +25,7 @@ const Navigation = () => {
         <div className={`collapse navbar-collapse${isOpen ? ' show' : ''} justify-content-end`} id="navbarNav">
           <ul className="navbar-nav flex-column flex-lg-row">
             <li className="nav-item">
-              <Link className="nav-link" to="/">Home</Link>
+              <Link className="nav-link" to="/test-repo">Home</Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link" to="/about">About</Link>
