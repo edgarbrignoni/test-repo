@@ -8,7 +8,7 @@ const Navigation = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark sticky-top">
       <div className="container">
-        <Link className="navbar-brand" to="/">
+        <Link className="navbar-brand" to="/test-repo">
           <i className="bi bi-balance-scale"></i>
           Lcdo. Oscar Amador Ramirez, C.S.P.
         </Link>
