@@ -152,7 +152,7 @@ const Contact = () => {
             <div className="col-12">
               <h3 className="text-center mb-4">Our Location</h3>
               <div className="ratio ratio-16x9">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.45135582532!2d-87.62777782369103!3d41.88388697123923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2ca8dc34c44d%3A0x9af6a3f281c2f3e2!2sChicago%2C%20IL%2C%20USA!5e0!3m2!1send2s!4v1689876313875!5m2!1sen!2s" frameBorder="0" style={{border:0}} allowFullScreen="" aria-hidden="false" tabIndex="0"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1318.5988947532073!2d-66.05542896733844!3d18.41233006694345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c03689bc412528d%3A0x5f0c3887ff281d06!2s623%20Av.%20Juan%20Ponce%20de%20Le%C3%B3n%2C%20San%20Juan%2C%2000917%2C%20Puerto%20Rico!5e1!3m2!1sen!2sus!4v1777273642794!5m2!1sen!2sus" frameBorder="0" style={{border:0}} allowFullScreen="" aria-hidden="false" tabIndex="0"></iframe>
               </div>
             </div>
           </div>
