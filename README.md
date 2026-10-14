@@ -75,3 +75,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 From master branch just run
 
 ### `npm run deploy`
+
+and make sure that you update the public colder with a custome domain name with a CNAME file
+
+and also make sure to update package.json and add the following
+
+### `"homepage": "https://beta.artebrignoni.com",`
