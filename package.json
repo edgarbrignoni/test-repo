@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Law firm website with React and Bootstrap",
   "main": "index.js",
-  "homepage": "https://edgarbrignoni.github.io/test-repo",
+  "homepage": "https://beta.artebrignoni.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
